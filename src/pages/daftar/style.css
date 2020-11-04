@@ -1,0 +1,25 @@
+.sectionDaftar {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+
+.img-daftar {
+    width: 500px;
+}
+
+.img-daftar img {
+    width: 700px;
+    height: 500px;
+}
+
+.form-daftar {
+    margin-left: 100px;
+    padding: 100px;
+    width: 600px;
+    text-align: center;
+}
+
+.btnDaftar {
+    margin: 10px;
+}

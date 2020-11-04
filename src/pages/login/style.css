@@ -1,0 +1,22 @@
+.sectionLogin {
+    margin: 50px;
+    padding: 50px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+
+}
+
+.login-img {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    flex: 1;
+}
+
+.login {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    flex: 1;
+}
